@@ -1,0 +1,4 @@
+﻿question,measure,items,n_complete,cronbach_alpha,mean_interitem_correlation
+Q10,current_proficiency,9,275,0.7974200648083749,0.30833682419779523
+Q11,career_benefit,9,273,0.8430036899391193,0.3806340918166793
+Q12,actual_improvement,9,268,0.892180141138774,0.4839706751795959

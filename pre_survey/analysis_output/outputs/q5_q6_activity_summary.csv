@@ -1,0 +1,5 @@
+﻿activity,q5_indicator,q6_ordinal,q5_answered_n,selected_n,selected_pct_of_q5_answered,matched_q6_n,matched_q6_mean,matched_q6_sd,matched_q6_median,q6_missing_is_structural_or_skip_logic
+Research project,Q5__research_project,Q6_1_ord,318,226,71.1,46,2.3043478260869565,1.0927959089192842,2.0,True
+Real-organization project,Q5__project_for_a_local_international_real_o,Q6_2_ord,318,65,20.4,17,2.1176470588235294,0.9926198253344827,2.0,True
+Case study,Q5__case_study_in_textbook_or_any_other_publ,Q6_3_ord,318,172,54.1,37,1.8918918918918919,1.0745485818029143,2.0,True
+Business plan,Q5__business_plan_project,Q6_4_ord,318,124,39.0,32,2.625,1.128801819801464,3.0,True

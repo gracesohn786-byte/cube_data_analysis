@@ -1,0 +1,20 @@
+﻿theme,theme_label,count,pct_nonblank_q15,denominator_nonblank_q15,multi_label,exploratory_manual_count,difference_from_exploratory
+knowledge_understanding,Knowledge / conceptual understanding,112,47.3,237,True,126.0,-14.0
+business_marketing_management,Business / marketing / management,78,32.9,237,True,71.0,7.0
+research_data_analytics,Research / data / analytics,62,26.2,237,True,62.0,0.0
+applied_real_world_experience,Applied / client / real-world experience,51,21.5,237,True,60.0,-9.0
+teamwork_collaboration,Teamwork / collaboration,35,14.8,237,True,41.0,-6.0
+communication_presentation,Communication / presentation,37,15.6,237,True,41.0,-4.0
+planning_problem_solving_leadership,Planning / problem-solving / leadership,33,13.9,237,True,33.0,0.0
+career_readiness,Career readiness,28,11.8,237,True,21.0,7.0
+confidence_personal_growth,Confidence / personal growth,17,7.2,237,True,20.0,-3.0
+civic_community_social_impact,Civic / community / social impact,20,8.4,237,True,20.0,0.0
+sustainability_environment,Sustainability / environment,16,6.8,237,True,17.0,-1.0
+international_intercultural,International / intercultural,6,2.5,237,True,11.0,-5.0
+networking_connections,Networking / connections,6,2.5,237,True,6.0,0.0
+technology_software,Technology / software,6,2.5,237,True,6.0,0.0
+teaching_pedagogy,Teaching / pedagogy,4,1.7,237,True,4.0,0.0
+no_meaningful_gain,No Meaningful Gain,2,0.8,237,True,,
+extrinsic_only,Extrinsic Only,2,0.8,237,True,,
+negative_or_critical,Negative Or Critical,4,1.7,237,True,,
+low_specificity,Low Specificity,4,1.7,237,True,,

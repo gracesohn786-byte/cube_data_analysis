@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Streamlit local secrets (never commit)
+.streamlit/secrets.toml
+
+# Restricted / identifiable survey materials
+**/*RESTRICTED*
+**/data_raw/
+**/data_cleaned/
+
+# Local analysis artifacts not needed for the app
+*.pbix
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

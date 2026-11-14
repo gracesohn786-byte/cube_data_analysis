@@ -1,0 +1,4 @@
+﻿model,outcome,n,r_squared,adjusted_r_squared,outcome_ceiling_pct_categories_3_or_4,cooks_d_gt_4_over_n,max_cooks_d,robust_covariance,design
+Workforce readiness,Q4_ord,366,0.2254717204583866,0.2212043470173859,76.22950819672131,19,0.05110599949568826,HC3,cross-sectional descriptive association
+Coursework preparedness,Q7_ord,364,0.11792428023010704,0.11303743413719913,82.96703296703298,26,0.2501007652362155,HC3,cross-sectional descriptive association
+CUBEs excitement,Q14_ord,367,0.45738468812937083,0.4544032853168949,82.83378746594006,20,0.13498374546554415,HC3,cross-sectional descriptive association

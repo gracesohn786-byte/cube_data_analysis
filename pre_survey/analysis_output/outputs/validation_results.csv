@@ -1,0 +1,18 @@
+﻿check,passed,observed,expected
+analysis row count,True,447,447
+analysis row_id unique,True,447,447
+skills long row count,True,12069,12069
+27 skill rows per respondent,True,27–27,27
+recommended sample count,True,367,367
+Q6_1 pre meaning,True,Career contribution: Research project,Research project
+Q6_2 pre meaning,True,Career contribution: Real-organization project,Real-organization project
+Q5 unanswered remains missing,True,0,0
+Q3 structural flag present,True,True,True
+Q6 structural flag present,True,True,True
+analysis excludes direct identifiers,True,,none
+theme assignments unique,True,341,341
+readiness model n,True,366,approximately 366
+preparedness model n,True,364,approximately 364
+excitement model n,True,367,approximately 367
+all prespecified predictor directions positive,True,"[0.37, 0.227, 0.276, 0.136, 0.645, 0.069]",all positive
+expected figure count,True,11,11

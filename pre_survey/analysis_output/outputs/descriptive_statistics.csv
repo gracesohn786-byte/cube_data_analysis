@@ -1,0 +1,164 @@
+﻿sample,variable,statistic,category,n,missing_n,missing_pct,mean,sd,median,q1,q3,min,max,count,percent
+recommended,age,numeric_summary,,360,7,1.9,21.908333333333335,2.96026376525616,21.0,21.0,22.0,18.0,57.0,,
+recommended,Duration (in seconds),numeric_summary,,367,0,0.0,2473.3297002724794,18419.29961030468,324.0,256.0,446.5,118.0,290098.0,,
+recommended,Q4_ord,numeric_summary,,366,1,0.3,2.8524590163934427,0.8375319039275841,3.0,3.0,3.0,0.0,4.0,,
+recommended,Q7_ord,numeric_summary,,365,2,0.5,2.9397260273972603,0.7006158448789457,3.0,3.0,3.0,0.0,4.0,,
+recommended,Q8_ord,numeric_summary,,363,4,1.1,0.9724517906336089,0.8727370388426167,1.0,0.0,1.5,0.0,3.0,,
+recommended,Q9_ord,numeric_summary,,367,0,0.0,2.3651226158038146,0.7841907343721335,2.0,2.0,3.0,0.0,4.0,,
+recommended,Q14_ord,numeric_summary,,367,0,0.0,3.196185286103542,0.8162868405238554,3.0,3.0,4.0,0.0,4.0,,
+recommended,Q13_1,numeric_summary,,367,0,0.0,3.863760217983651,1.0727473677549104,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q10_1,numeric_summary,,367,0,0.0,4.256130790190736,0.8028700323577391,4.0,4.0,5.0,1.0,5.0,,
+recommended,Q10_2,numeric_summary,,367,0,0.0,3.3133514986376023,0.9276631691223428,3.0,3.0,4.0,0.0,5.0,,
+recommended,Q10_3,numeric_summary,,366,1,0.3,3.7295081967213113,1.0125531428304972,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q10_4,numeric_summary,,366,1,0.3,3.7540983606557377,0.8818859809801719,4.0,3.0,4.0,1.0,5.0,,
+recommended,Q10_5,numeric_summary,,366,1,0.3,3.3688524590163933,1.0431839014021551,3.0,3.0,4.0,1.0,5.0,,
+recommended,Q10_6,numeric_summary,,362,5,1.4,3.138121546961326,1.1851971593431414,3.0,2.0,4.0,0.0,5.0,,
+recommended,Q10_7,numeric_summary,,366,1,0.3,3.6939890710382515,1.0145878115163276,4.0,3.0,4.0,0.0,5.0,,
+recommended,Q10_8,numeric_summary,,363,4,1.1,3.0082644628099175,1.0041009923281585,3.0,2.0,4.0,0.0,5.0,,
+recommended,Q10_9,numeric_summary,,365,2,0.5,3.5561643835616437,1.0325720448708957,4.0,3.0,4.0,1.0,5.0,,
+recommended,Q11_1,numeric_summary,,367,0,0.0,4.362397820163488,0.8473699102540628,5.0,4.0,5.0,1.0,5.0,,
+recommended,Q11_2,numeric_summary,,367,0,0.0,3.844686648501362,1.0429926716031959,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q11_3,numeric_summary,,366,1,0.3,4.0,1.0701427378868926,4.0,3.0,5.0,1.0,5.0,,
+recommended,Q11_4,numeric_summary,,366,1,0.3,4.26775956284153,0.8817162014161974,4.5,4.0,5.0,1.0,5.0,,
+recommended,Q11_5,numeric_summary,,363,4,1.1,3.696969696969697,1.176034476637233,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q11_6,numeric_summary,,366,1,0.3,3.9153005464480874,1.1083423596239057,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q11_7,numeric_summary,,367,0,0.0,4.247956403269755,0.9209699794304724,5.0,4.0,5.0,1.0,5.0,,
+recommended,Q11_8,numeric_summary,,366,1,0.3,3.8551912568306013,1.126669399568191,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q11_9,numeric_summary,,367,0,0.0,4.15258855585831,0.9602126370722601,4.0,4.0,5.0,1.0,5.0,,
+recommended,Q12_1,numeric_summary,,361,6,1.6,3.7562326869806095,1.1286034591159968,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q12_2,numeric_summary,,364,3,0.8,3.9368131868131866,1.0225376299550613,4.0,3.0,5.0,1.0,5.0,,
+recommended,Q12_3,numeric_summary,,363,4,1.1,3.3856749311294765,1.179949326613368,3.0,3.0,4.0,0.0,5.0,,
+recommended,Q12_4,numeric_summary,,364,3,0.8,3.75,1.091224701820051,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q12_5,numeric_summary,,363,4,1.1,3.3057851239669422,1.1479718498575586,3.0,3.0,4.0,0.0,5.0,,
+recommended,Q12_6,numeric_summary,,365,2,0.5,3.419178082191781,1.187001200533403,3.0,3.0,4.0,0.0,5.0,,
+recommended,Q12_7,numeric_summary,,361,6,1.6,3.481994459833795,1.1082179939846868,4.0,3.0,4.0,0.0,5.0,,
+recommended,Q12_8,numeric_summary,,363,4,1.1,3.8292011019283745,1.0891357873624847,4.0,3.0,5.0,0.0,5.0,,
+recommended,Q12_9,numeric_summary,,362,5,1.4,3.1629834254143647,1.2470285767345775,3.0,2.0,4.0,0.0,5.0,,
+recommended,Q2,category_frequency,"Yes, part-time",367,0,0.0,,,,,,,,224.0,61.0
+recommended,Q2,category_frequency,"No, I am not currently working",367,0,0.0,,,,,,,,55.0,15.0
+recommended,Q2,category_frequency,"Yes, full-time",367,0,0.0,,,,,,,,48.0,13.1
+recommended,Q2,category_frequency,Internship,367,0,0.0,,,,,,,,20.0,5.4
+recommended,Q2,category_frequency,Other (please specify),367,0,0.0,,,,,,,,20.0,5.4
+recommended,Q3,category_frequency,(Missing),170,197,53.7,,,,,,,,197.0,53.7
+recommended,Q3,category_frequency,"No, I am not currently working in my chosen field",170,197,53.7,,,,,,,,107.0,29.2
+recommended,Q3,category_frequency,"Yes, I have am working in my chosen field",170,197,53.7,,,,,,,,48.0,13.1
+recommended,Q3,category_frequency,Other (please specify),170,197,53.7,,,,,,,,15.0,4.1
+recommended,Q17_proposed,category_frequency,Female,358,9,2.5,,,,,,,,179.0,48.8
+recommended,Q17_proposed,category_frequency,Male,358,9,2.5,,,,,,,,171.0,46.6
+recommended,Q17_proposed,category_frequency,(Missing),358,9,2.5,,,,,,,,9.0,2.5
+recommended,Q17_proposed,category_frequency,Other/unmapped (review),358,9,2.5,,,,,,,,8.0,2.2
+recommended,wave_year,category_frequency,2025,367,0,0.0,,,,,,,,137.0,37.3
+recommended,wave_year,category_frequency,2022,367,0,0.0,,,,,,,,98.0,26.7
+recommended,wave_year,category_frequency,2024,367,0,0.0,,,,,,,,59.0,16.1
+recommended,wave_year,category_frequency,2023,367,0,0.0,,,,,,,,39.0,10.6
+recommended,wave_year,category_frequency,2026,367,0,0.0,,,,,,,,34.0,9.3
+recommended,Q4,category_frequency,Somewhat ready,366,1,0.3,,,,,,,,213.0,58.0
+recommended,Q4,category_frequency,Very ready,366,1,0.3,,,,,,,,66.0,18.0
+recommended,Q4,category_frequency,Neither ready nor not ready,366,1,0.3,,,,,,,,60.0,16.3
+recommended,Q4,category_frequency,Somewhat not ready,366,1,0.3,,,,,,,,21.0,5.7
+recommended,Q4,category_frequency,Very not ready,366,1,0.3,,,,,,,,6.0,1.6
+recommended,Q4,category_frequency,(Missing),366,1,0.3,,,,,,,,1.0,0.3
+recommended,Q7,category_frequency,Somewhat prepared,365,2,0.5,,,,,,,,243.0,66.2
+recommended,Q7,category_frequency,Very prepared,365,2,0.5,,,,,,,,59.0,16.1
+recommended,Q7,category_frequency,Neither prepared nor unprepared,365,2,0.5,,,,,,,,47.0,12.8
+recommended,Q7,category_frequency,Somewhat unprepared,365,2,0.5,,,,,,,,14.0,3.8
+recommended,Q7,category_frequency,Very unprepared,365,2,0.5,,,,,,,,2.0,0.5
+recommended,Q7,category_frequency,(Missing),365,2,0.5,,,,,,,,2.0,0.5
+recommended,Q8,category_frequency,Sometimes (once per year),363,4,1.1,,,,,,,,150.0,40.9
+recommended,Q8,category_frequency,Seldom (less than once per year),363,4,1.1,,,,,,,,122.0,33.2
+recommended,Q8,category_frequency,Frequently (once per semester),363,4,1.1,,,,,,,,70.0,19.1
+recommended,Q8,category_frequency,Often (more than 2x per year),363,4,1.1,,,,,,,,21.0,5.7
+recommended,Q8,category_frequency,(Missing),363,4,1.1,,,,,,,,4.0,1.1
+recommended,Q9,category_frequency,Neither more or less qualified,367,0,0.0,,,,,,,,156.0,42.5
+recommended,Q9,category_frequency,Somewhat more qualified,367,0,0.0,,,,,,,,149.0,40.6
+recommended,Q9,category_frequency,Somewhat less qualified,367,0,0.0,,,,,,,,41.0,11.2
+recommended,Q9,category_frequency,Very much more qualified,367,0,0.0,,,,,,,,17.0,4.6
+recommended,Q9,category_frequency,Very much less qualified,367,0,0.0,,,,,,,,4.0,1.1
+recommended,Q14,category_frequency,Somewhat excited,367,0,0.0,,,,,,,,155.0,42.2
+recommended,Q14,category_frequency,Very excited,367,0,0.0,,,,,,,,149.0,40.6
+recommended,Q14,category_frequency,Neither excited nor unexcited,367,0,0.0,,,,,,,,51.0,13.9
+recommended,Q14,category_frequency,Somewhat unexcited,367,0,0.0,,,,,,,,10.0,2.7
+recommended,Q14,category_frequency,Very unexcited,367,0,0.0,,,,,,,,2.0,0.5
+all_rows,age,numeric_summary,,368,79,17.7,21.921195652173914,2.934672309440316,21.0,21.0,22.0,18.0,57.0,,
+all_rows,Duration (in seconds),numeric_summary,,447,0,0.0,4328.474272930649,33359.50113238306,305.0,220.0,418.0,2.0,536979.0,,
+all_rows,Q4_ord,numeric_summary,,398,49,11.0,2.841708542713568,0.85619337694108,3.0,3.0,3.0,0.0,4.0,,
+all_rows,Q7_ord,numeric_summary,,392,55,12.3,2.923469387755102,0.7146692430332592,3.0,3.0,3.0,0.0,4.0,,
+all_rows,Q8_ord,numeric_summary,,388,59,13.2,0.9742268041237113,0.8771316125528887,1.0,0.0,2.0,0.0,3.0,,
+all_rows,Q9_ord,numeric_summary,,391,56,12.5,2.3657289002557547,0.7823383215677236,2.0,2.0,3.0,0.0,4.0,,
+all_rows,Q14_ord,numeric_summary,,378,69,15.4,3.187830687830688,0.8170335505450412,3.0,3.0,4.0,0.0,4.0,,
+all_rows,Q13_1,numeric_summary,,376,71,15.9,3.851063829787234,1.0753722759653486,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q10_1,numeric_summary,,385,62,13.9,4.257142857142857,0.7931064601570569,4.0,4.0,5.0,1.0,5.0,,
+all_rows,Q10_2,numeric_summary,,385,62,13.9,3.3012987012987014,0.9561333679545011,3.0,3.0,4.0,0.0,5.0,,
+all_rows,Q10_3,numeric_summary,,384,63,14.1,3.71875,1.0265725375903672,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q10_4,numeric_summary,,384,63,14.1,3.7552083333333335,0.8864951131995703,4.0,3.0,4.0,1.0,5.0,,
+all_rows,Q10_5,numeric_summary,,383,64,14.3,3.3655352480417755,1.0520797966995816,3.0,3.0,4.0,1.0,5.0,,
+all_rows,Q10_6,numeric_summary,,377,70,15.7,3.143236074270557,1.1853104135911092,3.0,2.0,4.0,0.0,5.0,,
+all_rows,Q10_7,numeric_summary,,382,65,14.5,3.6858638743455496,1.0198858267136606,4.0,3.0,4.0,0.0,5.0,,
+all_rows,Q10_8,numeric_summary,,380,67,15.0,3.018421052631579,1.0129387907227505,3.0,2.0,4.0,0.0,5.0,,
+all_rows,Q10_9,numeric_summary,,381,66,14.8,3.561679790026247,1.0308408996317713,4.0,3.0,4.0,1.0,5.0,,
+all_rows,Q11_1,numeric_summary,,382,65,14.5,4.37434554973822,0.840991457113655,5.0,4.0,5.0,1.0,5.0,,
+all_rows,Q11_2,numeric_summary,,382,65,14.5,3.842931937172775,1.0456457852524368,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q11_3,numeric_summary,,379,68,15.2,3.994722955145119,1.0886492843487001,4.0,3.0,5.0,1.0,5.0,,
+all_rows,Q11_4,numeric_summary,,380,67,15.0,4.260526315789473,0.8855448581949832,4.0,4.0,5.0,1.0,5.0,,
+all_rows,Q11_5,numeric_summary,,377,70,15.7,3.689655172413793,1.1767807411292002,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q11_6,numeric_summary,,379,68,15.2,3.9102902374670183,1.0994826441793117,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q11_7,numeric_summary,,380,67,15.0,4.239473684210527,0.9319991489017966,5.0,4.0,5.0,1.0,5.0,,
+all_rows,Q11_8,numeric_summary,,379,68,15.2,3.8680738786279685,1.1238205974568405,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q11_9,numeric_summary,,382,65,14.5,4.159685863874346,0.9574396663538554,4.0,4.0,5.0,1.0,5.0,,
+all_rows,Q12_1,numeric_summary,,367,80,17.9,3.7547683923705724,1.1234329162213443,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q12_2,numeric_summary,,371,76,17.0,3.9353099730458223,1.0246257581173561,4.0,3.0,5.0,1.0,5.0,,
+all_rows,Q12_3,numeric_summary,,369,78,17.4,3.3631436314363143,1.1902442585767092,3.0,3.0,4.0,0.0,5.0,,
+all_rows,Q12_4,numeric_summary,,370,77,17.2,3.745945945945946,1.0871495247716214,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q12_5,numeric_summary,,368,79,17.7,3.2934782608695654,1.1487516596496916,3.0,3.0,4.0,0.0,5.0,,
+all_rows,Q12_6,numeric_summary,,371,76,17.0,3.4097035040431267,1.1897365906350015,3.0,3.0,4.0,0.0,5.0,,
+all_rows,Q12_7,numeric_summary,,368,79,17.7,3.483695652173913,1.1096580884815572,4.0,3.0,4.0,0.0,5.0,,
+all_rows,Q12_8,numeric_summary,,368,79,17.7,3.8369565217391304,1.0877286678120788,4.0,3.0,5.0,0.0,5.0,,
+all_rows,Q12_9,numeric_summary,,367,80,17.9,3.1689373297002725,1.2452377980359135,3.0,2.0,4.0,0.0,5.0,,
+all_rows,Q2,category_frequency,"Yes, part-time",404,43,9.6,,,,,,,,242.0,54.1
+all_rows,Q2,category_frequency,"No, I am not currently working",404,43,9.6,,,,,,,,64.0,14.3
+all_rows,Q2,category_frequency,"Yes, full-time",404,43,9.6,,,,,,,,56.0,12.5
+all_rows,Q2,category_frequency,(Missing),404,43,9.6,,,,,,,,43.0,9.6
+all_rows,Q2,category_frequency,Internship,404,43,9.6,,,,,,,,22.0,4.9
+all_rows,Q2,category_frequency,Other (please specify),404,43,9.6,,,,,,,,20.0,4.5
+all_rows,Q3,category_frequency,(Missing),184,263,58.8,,,,,,,,263.0,58.8
+all_rows,Q3,category_frequency,"No, I am not currently working in my chosen field",184,263,58.8,,,,,,,,118.0,26.4
+all_rows,Q3,category_frequency,"Yes, I have am working in my chosen field",184,263,58.8,,,,,,,,51.0,11.4
+all_rows,Q3,category_frequency,Other (please specify),184,263,58.8,,,,,,,,15.0,3.4
+all_rows,Q17_proposed,category_frequency,Female,366,81,18.1,,,,,,,,183.0,40.9
+all_rows,Q17_proposed,category_frequency,Male,366,81,18.1,,,,,,,,175.0,39.1
+all_rows,Q17_proposed,category_frequency,(Missing),366,81,18.1,,,,,,,,81.0,18.1
+all_rows,Q17_proposed,category_frequency,Other/unmapped (review),366,81,18.1,,,,,,,,8.0,1.8
+all_rows,wave_year,category_frequency,2025,447,0,0.0,,,,,,,,169.0,37.8
+all_rows,wave_year,category_frequency,2022,447,0,0.0,,,,,,,,120.0,26.8
+all_rows,wave_year,category_frequency,2024,447,0,0.0,,,,,,,,73.0,16.3
+all_rows,wave_year,category_frequency,2023,447,0,0.0,,,,,,,,46.0,10.3
+all_rows,wave_year,category_frequency,2026,447,0,0.0,,,,,,,,39.0,8.7
+all_rows,Q4,category_frequency,Somewhat ready,398,49,11.0,,,,,,,,230.0,51.5
+all_rows,Q4,category_frequency,Very ready,398,49,11.0,,,,,,,,72.0,16.1
+all_rows,Q4,category_frequency,Neither ready nor not ready,398,49,11.0,,,,,,,,65.0,14.5
+all_rows,Q4,category_frequency,(Missing),398,49,11.0,,,,,,,,49.0,11.0
+all_rows,Q4,category_frequency,Somewhat not ready,398,49,11.0,,,,,,,,23.0,5.1
+all_rows,Q4,category_frequency,Very not ready,398,49,11.0,,,,,,,,8.0,1.8
+all_rows,Q7,category_frequency,Somewhat prepared,392,55,12.3,,,,,,,,257.0,57.5
+all_rows,Q7,category_frequency,Very prepared,392,55,12.3,,,,,,,,63.0,14.1
+all_rows,Q7,category_frequency,(Missing),392,55,12.3,,,,,,,,55.0,12.3
+all_rows,Q7,category_frequency,Neither prepared nor unprepared,392,55,12.3,,,,,,,,53.0,11.9
+all_rows,Q7,category_frequency,Somewhat unprepared,392,55,12.3,,,,,,,,17.0,3.8
+all_rows,Q7,category_frequency,Very unprepared,392,55,12.3,,,,,,,,2.0,0.4
+all_rows,Q8,category_frequency,Sometimes (once per year),388,59,13.2,,,,,,,,159.0,35.6
+all_rows,Q8,category_frequency,Seldom (less than once per year),388,59,13.2,,,,,,,,131.0,29.3
+all_rows,Q8,category_frequency,Frequently (once per semester),388,59,13.2,,,,,,,,75.0,16.8
+all_rows,Q8,category_frequency,(Missing),388,59,13.2,,,,,,,,59.0,13.2
+all_rows,Q8,category_frequency,Often (more than 2x per year),388,59,13.2,,,,,,,,23.0,5.1
+all_rows,Q9,category_frequency,Neither more or less qualified,391,56,12.5,,,,,,,,166.0,37.1
+all_rows,Q9,category_frequency,Somewhat more qualified,391,56,12.5,,,,,,,,159.0,35.6
+all_rows,Q9,category_frequency,(Missing),391,56,12.5,,,,,,,,56.0,12.5
+all_rows,Q9,category_frequency,Somewhat less qualified,391,56,12.5,,,,,,,,44.0,9.8
+all_rows,Q9,category_frequency,Very much more qualified,391,56,12.5,,,,,,,,18.0,4.0
+all_rows,Q9,category_frequency,Very much less qualified,391,56,12.5,,,,,,,,4.0,0.9
+all_rows,Q14,category_frequency,Somewhat excited,378,69,15.4,,,,,,,,159.0,35.6
+all_rows,Q14,category_frequency,Very excited,378,69,15.4,,,,,,,,152.0,34.0
+all_rows,Q14,category_frequency,(Missing),378,69,15.4,,,,,,,,69.0,15.4
+all_rows,Q14,category_frequency,Neither excited nor unexcited,378,69,15.4,,,,,,,,55.0,12.3
+all_rows,Q14,category_frequency,Somewhat unexcited,378,69,15.4,,,,,,,,10.0,2.2
+all_rows,Q14,category_frequency,Very unexcited,378,69,15.4,,,,,,,,2.0,0.4

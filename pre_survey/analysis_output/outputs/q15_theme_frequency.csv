@@ -1,0 +1,18 @@
+﻿theme,theme_label,count,pct_nonblank_q15,denominator_nonblank_q15,multi_label
+knowledge_understanding,Knowledge / conceptual understanding,183,53.7,341,True
+business_marketing_management,Business / marketing / management,140,41.1,341,True
+research_data_analytics,Research / data / analytics,73,21.4,341,True
+applied_real_world_experience,Applied / client / real-world experience,75,22.0,341,True
+teamwork_collaboration,Teamwork / collaboration,16,4.7,341,True
+communication_presentation,Communication / presentation,20,5.9,341,True
+planning_problem_solving_leadership,Planning / problem-solving / leadership,27,7.9,341,True
+career_readiness,Career readiness,46,13.5,341,True
+confidence_personal_growth,Confidence / personal growth,23,6.7,341,True
+civic_community_social_impact,Civic / community / social impact,28,8.2,341,True
+sustainability_environment,Sustainability / environment,8,2.3,341,True
+international_intercultural,International / intercultural,2,0.6,341,True
+networking_connections,Networking / connections,10,2.9,341,True
+technology_software,Technology / software,4,1.2,341,True
+teaching_pedagogy,Teaching / pedagogy,19,5.6,341,True
+negative_or_unclear,Negative Or Unclear,2,0.6,341,True
+low_specificity,Low Specificity,10,2.9,341,True

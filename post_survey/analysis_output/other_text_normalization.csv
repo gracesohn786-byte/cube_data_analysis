@@ -1,0 +1,37 @@
+﻿row_id,source_variable,normalized_category,manual_review,raw_text_included,privacy_note
+8,Q2_5_TEXT,part_time_plus_internship,False,False,Review original in cleaned respondent-level source if needed
+9,Q2_5_TEXT,part_time_or_occasional,False,False,Review original in cleaned respondent-level source if needed
+176,Q2_5_TEXT,military_service,False,False,Review original in cleaned respondent-level source if needed
+207,Q2_5_TEXT,graduate_assistantship,False,False,Review original in cleaned respondent-level source if needed
+234,Q2_5_TEXT,part_time_or_occasional,False,False,Review original in cleaned respondent-level source if needed
+261,Q2_5_TEXT,job_seeking,False,False,Review original in cleaned respondent-level source if needed
+271,Q2_5_TEXT,part_time_plus_internship,False,False,Review original in cleaned respondent-level source if needed
+292,Q2_5_TEXT,part_time_plus_internship,False,False,Review original in cleaned respondent-level source if needed
+102,Q3_3_TEXT,mixed_multiple_jobs,False,False,Review original in cleaned respondent-level source if needed
+277,Q3_3_TEXT,adjacent_specialty,False,False,Review original in cleaned respondent-level source if needed
+301,Q3_3_TEXT,preparatory_role,False,False,Review original in cleaned respondent-level source if needed
+309,Q3_3_TEXT,mixed_multiple_jobs,False,False,Review original in cleaned respondent-level source if needed
+324,Q3_3_TEXT,adjacent_specialty,False,False,Review original in cleaned respondent-level source if needed
+327,Q3_3_TEXT,adjacent_specialty,False,False,Review original in cleaned respondent-level source if needed
+330,Q3_3_TEXT,mixed_multiple_jobs,False,False,Review original in cleaned respondent-level source if needed
+90,Q5_5_TEXT,none_not_applicable,False,False,Review original in cleaned respondent-level source if needed
+112,Q5_5_TEXT,interview_writing_project,False,False,Review original in cleaned respondent-level source if needed
+172,Q5_5_TEXT,none_not_applicable,False,False,Review original in cleaned respondent-level source if needed
+176,Q5_5_TEXT,none_not_applicable,False,False,Review original in cleaned respondent-level source if needed
+239,Q5_5_TEXT,international_collaboration,False,False,Review original in cleaned respondent-level source if needed
+263,Q5_5_TEXT,none_not_applicable,False,False,Review original in cleaned respondent-level source if needed
+270,Q5_5_TEXT,none_not_applicable,False,False,Review original in cleaned respondent-level source if needed
+239,Q6_5_TEXT,international_collaboration,False,False,Review original in cleaned respondent-level source if needed
+99,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+120,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+185,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+186,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+220,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+251,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+252,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+253,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+254,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+255,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+256,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+257,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted
+309,Q18_10_TEXT,course_or_instructor_other_internal,False,False,Raw instructor/course text intentionally omitted

@@ -1,0 +1,112 @@
+﻿dataset,grain,variable,display_label,original_label,variable_type,analysis_role,n_valid,n_missing,pct_missing,n_unique,scale_direction
+03_analysis_dataset,one row per respondent/wave,row_id,row_id,,derived numeric,supporting variable,447,0,0.0,447,
+03_analysis_dataset,one row per respondent/wave,Progress,Progress,Progress,survey metadata,supporting variable,447,0,0.0,19,
+03_analysis_dataset,one row per respondent/wave,Duration (in seconds),Duration (in seconds),Duration (in seconds),survey metadata,supporting variable,447,0,0.0,315,
+03_analysis_dataset,one row per respondent/wave,Finished,Finished,Finished,survey metadata,supporting variable,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,Q2,Currently working,Do you currently work? - Selected Choice,categorical (single choice),grouping variable,404,43,9.6,5,
+03_analysis_dataset,one row per respondent/wave,Q2_5_TEXT,Do you currently work? - Other (please specify) - ,Do you currently work? - Other (please specify) - Text,free text ('Other' specify),open text,20,427,95.5,19,
+03_analysis_dataset,one row per respondent/wave,Q3,Job in chosen field,Is this job in your chosen field? - Selected Choice,categorical (single choice),grouping variable,184,263,58.8,3,
+03_analysis_dataset,one row per respondent/wave,Q3_3_TEXT,Is this job in your chosen field? - Other (please ,Is this job in your chosen field? - Other (please specify) - Text,free text ('Other' specify),open text,15,432,96.6,15,
+03_analysis_dataset,one row per respondent/wave,Q4,Workforce readiness,How ready for the workforce do you currently feel you are?,ordinal (text scale),supporting variable,398,49,11.0,5,
+03_analysis_dataset,one row per respondent/wave,Q5,Prior course activities,Have you done any of the following in your previous courses at BSU? (select all that apply) - Selected Choice,multi-select (select all),supporting variable,342,105,23.5,22,
+03_analysis_dataset,one row per respondent/wave,Q5_5_TEXT,Have you done any of the following in your previou,Have you done any of the following in your previous courses at BSU? (select all that apply) - Other (please specify) - Text,free text ('Other' specify),open text,14,433,96.9,14,
+03_analysis_dataset,one row per respondent/wave,Q6_1,Career contribution: Research project,How much do you think each of these activities contributed to your future career preparation? - Research Project,ordinal rating (text scale),supporting variable,59,388,86.8,5,
+03_analysis_dataset,one row per respondent/wave,Q6_2,Career contribution: Real-organization project,How much do you think each of these activities contributed to your future career preparation? - Project for a local/international real organization where results are shared with this organization,ordinal rating (text scale),supporting variable,44,403,90.2,5,
+03_analysis_dataset,one row per respondent/wave,Q6_3,Career contribution: Case study,How much do you think each of these activities contributed to your future career preparation? - Case study in textbook or any other publication,ordinal rating (text scale),supporting variable,58,389,87.0,5,
+03_analysis_dataset,one row per respondent/wave,Q6_4,Career contribution: Business plan,How much do you think each of these activities contributed to your future career preparation? - Business Plan Project,ordinal rating (text scale),supporting variable,52,395,88.4,5,
+03_analysis_dataset,one row per respondent/wave,Q7,Coursework preparedness,How prepared do you think your coursework has made you for your future career?,ordinal (text scale),supporting variable,392,55,12.3,5,
+03_analysis_dataset,one row per respondent/wave,Q8,Networking frequency,How often have you had the opportunity to network with business professionals during class at BSU?,ordinal (text scale),supporting variable,388,59,13.2,4,
+03_analysis_dataset,one row per respondent/wave,Q9,Qualifications vs. others,How do you feel your qualifications compare to others in the job market?,ordinal (text scale),supporting variable,391,56,12.5,5,
+03_analysis_dataset,one row per respondent/wave,Q10_1,Proficiency: Teamwork,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Teamwork",numeric rating,skill rating,385,62,13.9,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q10_2,Proficiency: Research,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Research",numeric rating,skill rating,385,62,13.9,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q10_3,Proficiency: Creativity,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Creativity",numeric rating,skill rating,384,63,14.1,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q10_4,Proficiency: Critical Thinking,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Critical Thinking",numeric rating,skill rating,384,63,14.1,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q10_5,Proficiency: Professional Writing,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Professional Writing",numeric rating,skill rating,383,64,14.3,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q10_6,Proficiency: Public Speaking,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Public Speaking",numeric rating,skill rating,377,70,15.7,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q10_7,Proficiency: Leadership,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Leadership",numeric rating,skill rating,382,65,14.5,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q10_8,Proficiency: Data Analysis,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Data Analysis",numeric rating,skill rating,380,67,15.0,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q10_9,Proficiency: Computer/technological Skills,"Rate your current proficiency (how skilled, practiced and competent you are) in the following areas: - Computer/technological Skills",numeric rating,skill rating,381,66,14.8,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_1,Career benefit: Teamwork,How beneficial is preparation in the following skills to your career: - Teamwork,numeric rating,skill rating,382,65,14.5,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_2,Career benefit: Research,How beneficial is preparation in the following skills to your career: - Research,numeric rating,skill rating,382,65,14.5,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_3,Career benefit: Creativity,How beneficial is preparation in the following skills to your career: - Creativity,numeric rating,skill rating,379,68,15.2,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_4,Career benefit: Critical Thinking,How beneficial is preparation in the following skills to your career: - Critical Thinking,numeric rating,skill rating,380,67,15.0,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_5,Career benefit: Professional Writing,How beneficial is preparation in the following skills to your career: - Professional Writing,numeric rating,skill rating,377,70,15.7,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_6,Career benefit: Public Speaking,How beneficial is preparation in the following skills to your career: - Public Speaking,numeric rating,skill rating,379,68,15.2,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_7,Career benefit: Leadership,How beneficial is preparation in the following skills to your career: - Leadership,numeric rating,skill rating,380,67,15.0,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_8,Career benefit: Data Analysis,How beneficial is preparation in the following skills to your career: - Data Analysis,numeric rating,skill rating,379,68,15.2,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q11_9,Career benefit: Computer/technological Skills,How beneficial is preparation in the following skills to your career: - Computer/technological Skills,numeric rating,skill rating,382,65,14.5,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_1,Expected improvement: Teamwork,Which the following skills do you think you will improve the most in this course: - Teamwork,numeric rating,skill rating,367,80,17.9,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_2,Expected improvement: Research,Which the following skills do you think you will improve the most in this course: - Research,numeric rating,skill rating,371,76,17.0,5,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_3,Expected improvement: Creativity,Which the following skills do you think you will improve the most in this course: - Creativity,numeric rating,skill rating,369,78,17.4,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_4,Expected improvement: Critical Thinking,Which the following skills do you think you will improve the most in this course: - Critical Thinking,numeric rating,skill rating,370,77,17.2,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_5,Expected improvement: Professional Writing,Which the following skills do you think you will improve the most in this course: - Professional Writing,numeric rating,skill rating,368,79,17.7,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_6,Expected improvement: Public Speaking,Which the following skills do you think you will improve the most in this course: - Public Speaking,numeric rating,skill rating,371,76,17.0,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_7,Expected improvement: Leadership,Which the following skills do you think you will improve the most in this course: - Leadership,numeric rating,skill rating,368,79,17.7,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_8,Expected improvement: Data Analysis,Which the following skills do you think you will improve the most in this course: - Data Analysis,numeric rating,skill rating,368,79,17.7,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q12_9,Expected improvement: Computer/technological Skills,Which the following skills do you think you will improve the most in this course: - Computer/technological Skills,numeric rating,skill rating,367,80,17.9,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q13_1,Looking forward to project,How much are you looking forward to completing the project in this course? - I am looking forward to this course...,numeric rating,ordinal/rating outcome,376,71,15.9,6,Higher assumed = more of construct; anchors require confirmation
+03_analysis_dataset,one row per respondent/wave,Q14,Excitement: CUBEs project,How excited are you to work on a CUBEs project with a real business in this class?,ordinal (text scale),supporting variable,378,69,15.4,5,
+03_analysis_dataset,one row per respondent/wave,Q15,Hopes for course,What do you hope to gain from this course?,open-ended text,open text,341,106,23.7,333,
+03_analysis_dataset,one row per respondent/wave,Q17,Gender,Gender:,demographic / categorical,supporting variable,366,81,18.1,22,
+03_analysis_dataset,one row per respondent/wave,Q18,Race/ethnicity,Please indicate your race/ethnicity below. (Select all that apply) - Selected Choice,multi-select (select all),supporting variable,372,75,16.8,9,
+03_analysis_dataset,one row per respondent/wave,Q18_8_TEXT,Please indicate your race/ethnicity below. (Select,Please indicate your race/ethnicity below. (Select all that apply) - Prefer to self-describe: - Text,free text ('Other' specify),supporting variable,17,430,96.2,17,
+03_analysis_dataset,one row per respondent/wave,Q19,First-generation,Does this statement describe you: I am a first generation college student (i.e. my parents/guardians do not have college degrees)?,demographic / categorical,supporting variable,374,73,16.3,3,
+03_analysis_dataset,one row per respondent/wave,Q20,Low-income,"Does this statement describe you: 
+I would be considered a low-income student (e.g. eligible for free or reduced school lunch in K-12 school and/or eligible for a Pell Grant and/or other need-based aid for college).",demographic / categorical,supporting variable,373,74,16.6,3,
+03_analysis_dataset,one row per respondent/wave,Q21,Class/professor,What class/professor is this survey for? - Selected Choice,demographic / categorical,supporting variable,372,75,16.8,14,
+03_analysis_dataset,one row per respondent/wave,Q21_9_TEXT,What class/professor is this survey for? - Other -,What class/professor is this survey for? - Other - Text,free text ('Other' specify),supporting variable,47,400,89.5,43,
+03_analysis_dataset,one row per respondent/wave,age,age,,derived numeric,supporting variable,368,79,17.7,17,
+03_analysis_dataset,one row per respondent/wave,age_implausible,age_implausible,,derived flag,supporting variable,447,0,0.0,1,
+03_analysis_dataset,one row per respondent/wave,age_unparsed,age_unparsed,,derived flag,supporting variable,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,Q4_ord,Q4_ord,,derived ordinal,ordinal/rating outcome,398,49,11.0,5,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q7_ord,Q7_ord,,derived ordinal,ordinal/rating outcome,392,55,12.3,5,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q8_ord,Q8_ord,,derived ordinal,ordinal/rating outcome,388,59,13.2,4,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q9_ord,Q9_ord,,derived ordinal,ordinal/rating outcome,391,56,12.5,5,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q14_ord,Q14_ord,,derived ordinal,ordinal/rating outcome,378,69,15.4,5,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q6_1_ord,Q6_1_ord,,derived ordinal,ordinal/rating outcome,59,388,86.8,5,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q6_2_ord,Q6_2_ord,,derived ordinal,ordinal/rating outcome,44,403,90.2,5,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q6_3_ord,Q6_3_ord,,derived ordinal,ordinal/rating outcome,58,389,87.0,5,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q6_4_ord,Q6_4_ord,,derived ordinal,ordinal/rating outcome,52,395,88.4,5,Higher = more positive/frequent
+03_analysis_dataset,one row per respondent/wave,Q17_proposed,Q17_proposed,,derived categorical,grouping variable,366,81,18.1,3,
+03_analysis_dataset,one row per respondent/wave,Q21_is_numeric_code,Q21_is_numeric_code,,derived numeric,supporting variable,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,wave_year,wave_year,,derived numeric,grouping variable,447,0,0.0,5,
+03_analysis_dataset,one row per respondent/wave,n_core_answered,n_core_answered,,derived numeric,supporting variable,447,0,0.0,19,
+03_analysis_dataset,one row per respondent/wave,core_pct_answered,core_pct_answered,,derived numeric,supporting variable,447,0,0.0,19,
+03_analysis_dataset,one row per respondent/wave,flag_not_finished,flag_not_finished,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_progress_lt100,flag_progress_lt100,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_no_core_items,flag_no_core_items,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_speeder,flag_speeder,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_very_long,flag_very_long,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_straightline_Q10,flag_straightline_Q10,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_straightline_Q11,flag_straightline_Q11,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_straightline_Q12,flag_straightline_Q12,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_q22_dup_in_file,flag_q22_dup_in_file,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_q22_nonstandard,flag_q22_nonstandard,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,flag_dup_response_id,flag_dup_response_id,,derived flag,quality/control,447,0,0.0,1,
+03_analysis_dataset,one row per respondent/wave,flag_identical_answers,flag_identical_answers,,derived flag,quality/control,447,0,0.0,1,
+03_analysis_dataset,one row per respondent/wave,q3_not_in_version,q3_not_in_version,,derived numeric,supporting variable,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,q6_not_in_version,q6_not_in_version,,derived numeric,supporting variable,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,any_flag,any_flag,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,recommended_include,recommended_include,,derived flag,quality/control,447,0,0.0,2,
+03_analysis_dataset,one row per respondent/wave,Q5__research_project,Q5__research_project,,derived numeric,multi-select indicator,342,105,23.5,2,
+03_analysis_dataset,one row per respondent/wave,Q5__case_study_in_textbook_or_any_other_publ,Q5__case_study_in_textbook_or_any_other_publ,,derived numeric,multi-select indicator,342,105,23.5,2,
+03_analysis_dataset,one row per respondent/wave,Q5__business_plan_project,Q5__business_plan_project,,derived numeric,multi-select indicator,342,105,23.5,2,
+03_analysis_dataset,one row per respondent/wave,Q5__project_for_a_local_international_real_o,Q5__project_for_a_local_international_real_o,,derived numeric,multi-select indicator,342,105,23.5,2,
+03_analysis_dataset,one row per respondent/wave,Q5__other_please_specify,Q5__other_please_specify,,derived numeric,multi-select indicator,342,105,23.5,2,
+03_analysis_dataset,one row per respondent/wave,Q5__none_of_the_above,Q5__none_of_the_above,,derived numeric,multi-select indicator,342,105,23.5,2,
+03_analysis_dataset,one row per respondent/wave,Q5__n_selected,Q5__n_selected,,derived numeric,multi-select indicator,342,105,23.5,5,
+03_analysis_dataset,one row per respondent/wave,Q5__other_text,Q5__other_text,,derived categorical,multi-select indicator,14,433,96.9,14,
+03_analysis_dataset,one row per respondent/wave,Q18__white,Q18__white,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__black_or_african_american,Q18__black_or_african_american,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__hispanic_latinx_or_spanish_origin_of_any,Q18__hispanic_latinx_or_spanish_origin_of_any,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__prefer_to_self_describe,Q18__prefer_to_self_describe,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__cape_verdean,Q18__cape_verdean,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__asian_or_asian_american,Q18__asian_or_asian_american,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__american_indian_or_alaska_native,Q18__american_indian_or_alaska_native,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__middle_eastern_or_north_african,Q18__middle_eastern_or_north_african,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__native_hawaiian_or_other_pacific_islande,Q18__native_hawaiian_or_other_pacific_islande,,derived numeric,supporting variable,372,75,16.8,2,
+03_analysis_dataset,one row per respondent/wave,Q18__n_selected,Q18__n_selected,,derived numeric,supporting variable,372,75,16.8,1,
+03_analysis_dataset,one row per respondent/wave,Q18__other_text,Q18__other_text,,derived categorical,supporting variable,17,430,96.2,17,
+03_analysis_dataset,one row per respondent/wave,pseudo_id,pseudo_id,,derived categorical,supporting variable,353,94,21.0,322,
+03_analysis_dataset,one row per respondent/wave,wave_month,wave_month,,derived categorical,grouping variable,447,0,0.0,21,
+06_skills_long,respondent × 9 skills × 3 measures,(dataset structure),Skills long table,,long-format analytical table,skill profiles and within-skill comparisons,12069,1889,15.7,447,Higher assumed = more of measure; anchors require confirmation
